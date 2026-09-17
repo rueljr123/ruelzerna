@@ -1,0 +1,28 @@
+{
+  "name": "burta.sia",
+  "version": "1.0.0",
+  "description": "midterm activities",
+  "keywords": [
+    "sia",
+    "midterm",
+    "sy25-26"
+  ],
+  "homepage": "https://github.com/rueljr123/ruelzerna#readme",
+  "bugs": {
+    "url": "https://github.com/rueljr123/ruelzerna/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rueljr123/ruelzerna.git"
+  },
+  "license": "ISC",
+  "author": "velasco, ruela",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
